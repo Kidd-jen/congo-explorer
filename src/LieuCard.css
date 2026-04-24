@@ -1,0 +1,10 @@
+/* Style pour chaque carte LieuCard */
+.lieu-card {
+	background-color: #232323;
+	border: 2px solid gold;
+	padding: 1.5rem;
+	border-radius: 1rem;
+	color: #fff;
+	margin-bottom: 1.5rem;
+	box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
