@@ -5,6 +5,7 @@ function LieuCard(props) {
         <div className="lieu-card">
             <h2>{props.nom}</h2>
             <p>{props.ville}</p>
+            <p>{props.description}</p>
         </div>
     );
 }
